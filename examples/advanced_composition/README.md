@@ -1,4 +1,4 @@
-(advanced_composition)=
+(examples_advanced_composition)=
 
 # Advanced Composition
 
